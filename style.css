@@ -50,6 +50,10 @@ body{
     background-color: #aaa;
     padding: 20px;
 }
+ img{
+     width: 80%;
+     height: ;
+ }
 .footer{
     background-color: #aaa;
     color: #000;
